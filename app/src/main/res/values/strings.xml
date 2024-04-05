@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ImadHistoryAssingment1</string>
-    <string name="history_app">history</string>
-    <string name="please_enter_your_age">age</string>
-    <string name="clear">clear_button</string>
-    <string name="generate_history">history_gen</string>
+    <string name="history_app">History Age App</string>
+    <string name="please_enter_your_age">Please enter your age </string>
+    <string name="clear">Clear</string>
+    <string name="generate_history">Generate history</string>
 </resources>
